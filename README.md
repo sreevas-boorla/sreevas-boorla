@@ -3,7 +3,7 @@
 Backend & AI/ML Engineer | Python · SQL · REST APIs · AWS Certified
 
 🔭 Currently: Open to full-time Software Engineer / Backend / AI-ML roles  
-🏢 Ex: Backend Developer Intern @ MediAssist (Healthcare TPA, 30M+ members)  
+🏢 Ex: Account Management Intern @ MediAssist (Healthcare TPA, 30M+ members)  
 📄 Published: ICEAI 2024 (Springer) — Nutritional Value & Calorie Detection using ML/DL  
 ☁️ Certified: AWS Academy Cloud Foundations | AWS Engineer Core  
 
